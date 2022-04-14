@@ -68,13 +68,6 @@ body {
     background-color: #333;
 }
 
-footer {
-    position: absolute;
-    width: 100%;
-    bottom: 0; left: 0; right: 0;
-    text-align: center;
-}
-
 div {
     background-color: #252525;
     width: 950px;
@@ -93,9 +86,6 @@ div {
     #display {
         width: 90%;
         height: 60px;
-    }
-    footer {
-        position: relative;
     }
     input {
         width: 60px;
