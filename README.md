@@ -1,5 +1,5 @@
 # WebCalculator
-Responsive website calculator built with HTML and CSS.
+Responsive calculator website built with HTML and CSS.
 
 ![0](https://github.com/PouletEnSlip/WebCalculator/blob/main/site.png)
 
