@@ -9,10 +9,10 @@
 </head>
 <body>
 	<h1><a href="../">&#x2190;</a> Calculator</h1>
-	<form name="calc">
+	<form action="" name="calc">
 		<div class="ecran">
 			<input id="display" type="text" value="" disabled>
-			<button id="clear" onclick="document.getElementById('display').value=''" title="Clear">C</button>
+			<input type="reset" value="C" id="clear">
 		</div><br>
 		<input type="button" value="7" onClick="calc.display.value+='7'">
 		<input type="button" value="8" onClick="calc.display.value+='8'">
